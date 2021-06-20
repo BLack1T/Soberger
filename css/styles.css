@@ -242,6 +242,7 @@ nav li{
 	height: 159px;
 	width: 431px;
 	padding: 30px;
+	resize: none;
 }
 
 .reg__text-btn{
@@ -257,16 +258,20 @@ nav li{
 	color: #fff;
 }
 
+.politics__link{
+	color: #fff;
+}
+
 .form__reg-btn{
 	padding: 18px 68px;
-	color: #FFFFFF;
+	color: #FF5F01;
 	font-family: Roboto;
 	font-weight: bold;
 	font-size: 16px;
 	line-height: 24px;
 	border: 0;
 	border-radius: 10px;
-	background-color: #DBDBDB;
+	background-color: #F5F5F5;
 
 }
 
@@ -427,6 +432,6 @@ nav li{
 	border-top: 1px solid #363131;
 
 }
-.footer__bootom span{
+.picom__link{
 	color: #FF5F01
 }
